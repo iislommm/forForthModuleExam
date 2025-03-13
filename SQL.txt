@@ -146,3 +146,5 @@ FROM Orders o
 JOIN Customers c ON o.CustomerID = c.CustomerID
 WHERE c.Name = 'Alice Smith'
 ORDER BY o.OrderDate DESC;
+
+--txt verion
