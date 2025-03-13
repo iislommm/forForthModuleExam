@@ -10,6 +10,9 @@ namespace ExamBot.Bll.Services
 {
     public class BotService
     {
-
+        //LOGICA PROGRAMM CS DA
+        //LOGICA PROGRAMM CS DA
+        //LOGICA PROGRAMM CS DA
+        //LOGICA PROGRAMM CS DA
     }
 }
